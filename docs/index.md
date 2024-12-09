@@ -14,10 +14,6 @@
 
 _source: <https://pypi.org/project/git-mr-linear/>_
 
-![clean&clear](https://clean-flo.com/wp-content/uploads/2024/07/clean-clear-1.webp)
-
-_source: <https://www.clean-flo.com/product/cc-clean-clear-concentrated-enzymes-1-gal/>_
-
 What git documentation says about rebase:
 
 ???+ "quote from _<https://git-scm.com/book/en/v2/Git-Branching-Rebasing>_"
