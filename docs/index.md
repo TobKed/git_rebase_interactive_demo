@@ -10,11 +10,11 @@
 2. Why? Usually not time to explain.
 3. What it is it? How to make your git history great again.
 
-![linear](https://warehouse-camo.ingress.cmh1.psfhosted.org/a44a1e570d57511d475e20d748d40e31f9862080/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f3436343739352f3131353333303139332d39343763333630302d613136312d313165622d396532622d3838386661303466376533342e706e67)
+![linear](https://pypi-camo.freetls.fastly.net/a44a1e570d57511d475e20d748d40e31f9862080/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f3436343739352f3131353333303139332d39343763333630302d613136312d313165622d396532622d3838386661303466376533342e706e67)
 
 _source: <https://pypi.org/project/git-mr-linear/>_
 
-![clean&clear](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRktv6B9Blper-mipya4dZpmx0quaH0G1fQ3e99MfGtybcPiCzbV-vkA6H4MimzsuImZE&usqp=CAU)
+![clean&clear](https://clean-flo.com/wp-content/uploads/2024/07/clean-clear-1.webp)
 
 _source: <https://www.clean-flo.com/product/cc-clean-clear-concentrated-enzymes-1-gal/>_
 

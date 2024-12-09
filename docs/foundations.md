@@ -58,7 +58,7 @@ A convienient way to edit most recent commit.
 
 ## `git adog`
 
-![adog](https://i.stack.imgur.com/ElVkf.jpg)
+![adog](https://i.sstatic.net/ElVkf.jpg)
 
 _source <https://stackoverflow.com/a/35075021>_
 
